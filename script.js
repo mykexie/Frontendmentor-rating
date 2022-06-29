@@ -18,5 +18,5 @@ function resetLinks() {
 subBtn.addEventListener('click', subClick);
 function subClick() {
     subBtn.classList.add('active');
-    document.location.href = '/submitted.html';
+    document.location.href = 'submitted.html';
 }
