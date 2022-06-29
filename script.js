@@ -15,8 +15,8 @@ function resetLinks() {
         el.classList.remove('active');
     })
 }
-subBtn.addEventListener('click', subClick);
-function subClick() {
-    subBtn.classList.add('active');
-    document.location.href = '/Frontendmentor-rating/submitted.html';
-}
+//subBtn.addEventListener('click', subClick);
+//function subClick() {
+//    subBtn.classList.add('active');
+//    document.location.href = '/Frontendmentor-rating/submitted.html';
+//}
