@@ -118,6 +118,8 @@ body {
     color: hsl(25, 97%, 53%);
     cursor: pointer;
 }
+.submit a:hover{
+    color: hsl(25, 97%, 53%);
 
 #one.active,
 #two.active,
