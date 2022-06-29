@@ -114,8 +114,6 @@ body {
     color: hsl(25, 97%, 53%);
     cursor: pointer;
 }
-.submit a:hover{
-    color: hsl(25, 97%, 53%);
 
 #one.active,
 #two.active,
@@ -127,11 +125,11 @@ body {
     cursor: pointer;
 }
 
-.submit.active {
+/*.submit.active {
     background-color: white;
     color: hsl(25, 97%, 53%);
     cursor: pointer;
-}
+}*/
 
 @media screen and (max-width: 375px) {
 
