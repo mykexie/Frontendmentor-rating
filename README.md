@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](/rating-page.png)
-![](/thnk-you-page.png)
+![](images/rating-page.png)
+![](images/thnk-you-page.png)
 
 
 ## My process
